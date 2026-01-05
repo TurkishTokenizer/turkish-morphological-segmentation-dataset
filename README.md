@@ -17,6 +17,19 @@ The repository contains the following files:
 *   **`final_core_roots.json`**: A structured JSON file containing the core lexicon. Entries typically include the root form, POS tag, and associated metadata derived from the source processing pipeline.
 *   **`fst_core_roots.txt`**: A plain text file formatted for FST intake, representing the core roots and their primary morphological classifications.
 
+### Dataset Statistics
+**Total Unique Roots:** ~65,000
+
+| Category | Count | Description |
+| :--- | :--- | :--- |
+| **PROPN** | 32,982 | Proper nouns (City names, person names, etc.) |
+| **NOUN** | 25,027 | Common nouns |
+| **ADJ** | 3,866 | Adjectives |
+| **VERB** | 1,561 | Verb roots |
+| **ADV** | 706 | Adverbs |
+| **INTERJ** | 451 | Interjections |
+| **Other** | ~280 | Pronouns, Conjunctions, Determinants, Particles |
+
 The dataset includes:
 *   Root forms (lemmas)
 *   Morphological segmentation boundaries
