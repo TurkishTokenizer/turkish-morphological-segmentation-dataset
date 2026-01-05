@@ -1,12 +1,5 @@
 # Turkish Morphology-Aware Segmentation Dataset
 
-<div align="center">
-
-  <img src=".github/assets/groot_hello.gif" alt="Morphological Segmentation" width="300">
-
-</div>
-
-
 
 ## Abstract
 This repository contains a specialized dataset for Turkish morphological segmentation, derived from a combination of Wiktionary-based resources (Kaikki), Zemberek NLP tool outputs, and Wikimedia text corpora. The dataset provides structured segmentation of Turkish words into roots, suffixes, and morphemes, enriched with Part-of-Speech (POS) tags. It is designed to serve as a high-quality reference resource for academic research in computational linguistics, specifically focusing on finite-state transducer (FST) based morphology and linguistic analysis. This dataset is intended for experimental and educational purposes, offering a linguistically informed reference point alongside purely statistical subword tokenization methods.
