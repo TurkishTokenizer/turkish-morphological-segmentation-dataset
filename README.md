@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src=".github/assets/groot_hello.gif" alt="Morphological Segmentation" width="200">
+  <img src=".github/assets/groot_hello.gif" alt="Morphological Segmentation" width="300">
 
 </div>
 
