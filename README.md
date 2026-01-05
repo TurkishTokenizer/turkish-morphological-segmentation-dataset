@@ -1,5 +1,11 @@
 # Turkish Morphology-Aware Segmentation Dataset
 
+<div align="center">
+
+  <img src="https://external-preview.redd.it/g2_ur6YfNDTEkWODqepGnMK2cNvdmrjfavZGlI9pmzE.gif?width=214&format=mp4&s=fcd52349dd4b3356472a0edc6e7e596abc3f90eci" alt="Morphological Segmentation" width="400">
+
+</div>
+
 ## Abstract
 This repository contains a specialized dataset for Turkish morphological segmentation, derived from a combination of Wiktionary-based resources (Kaikki), Zemberek NLP tool outputs, and Wikimedia text corpora. The dataset provides structured segmentation of Turkish words into roots, suffixes, and morphemes, enriched with Part-of-Speech (POS) tags. It is designed to serve as a high-quality reference resource for academic research in computational linguistics, specifically focusing on finite-state transducer (FST) based morphology and linguistic analysis. This dataset is intended for experimental and educational purposes, offering a linguistically informed reference point alongside purely statistical subword tokenization methods.
 
@@ -28,7 +34,6 @@ The repository contains the following files:
 | **VERB** | 1,561 | Verb roots |
 | **ADV** | 706 | Adverbs |
 | **INTERJ** | 451 | Interjections |
-| **Other** | ~280 | Pronouns, Conjunctions, Determinants, Particles |
 
 The dataset includes:
 *   Root forms (lemmas)
