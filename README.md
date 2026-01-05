@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://external-preview.redd.it/g2_ur6YfNDTEkWODqepGnMK2cNvdmrjfavZGlI9pmzE.gif?width=214&format=mp4&s=fcd52349dd4b3356472a0edc6e7e596abc3f90eci" alt="Morphological Segmentation" width="400">
+  <img src="data/animation.gif" alt="Morphological Segmentation" width="400">
 
 </div>
 
