@@ -20,8 +20,8 @@ This dataset aims to bridge that gap by providing:
 ## Dataset Description
 The repository contains the following files:
 
-*   **`final_core_roots.json`**: A structured JSON file containing the core lexicon. Entries typically include the root form, POS tag, and associated metadata derived from the source processing pipeline.
-*   **`fst_core_roots.txt`**: A plain text file formatted for FST intake, representing the core roots and their primary morphological classifications.
+*   **`data/final_core_roots.json`**: A structured JSON file containing the core lexicon. Entries typically include the root form, POS tag, and associated metadata derived from the source processing pipeline.
+*   **`data/fst_core_roots.txt`**: A plain text file formatted for FST intake, representing the core roots and their primary morphological classifications.
 
 ### Dataset Statistics
 **Total Unique Roots:** ~65,000
