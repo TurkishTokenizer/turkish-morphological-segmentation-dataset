@@ -94,13 +94,12 @@ If you use this dataset in your research, please cite it as follows (BibTeX plac
 
 ```bibtex
 @misc{turkish_morph_segmentation_2026,
-  author = {Atakan Yılmaz},
-  note = {Tokenizer development in collaboration with Kağan Arıbaş},
+  author = {Atakan Yılmaz and Kağan Arıbaş},
   title = {Turkish Morphology-Aware Segmentation Dataset},
   year = {2026},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/atechan44/turkish-morphological-segmentation-dataset}}
+  howpublished = {\url{https://github.com/TurkishTokenizer/turkish-morphological-segmentation-dataset}}
 }
 ```
 
