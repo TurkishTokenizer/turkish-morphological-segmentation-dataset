@@ -23,16 +23,22 @@ The repository contains the following files:
 *   **`data/fst_core_roots.txt`**: A plain text file formatted for FST intake, representing the core roots and their primary morphological classifications.
 
 ### Dataset Statistics
-**Total Unique Roots:** ~65,000
+**Total Unique Roots:** 64,891
 
 | Category | Count | Description |
 | :--- | :--- | :--- |
-| **PROPN** | 32,982 | Proper nouns (City names, person names, etc.) |
-| **NOUN** | 25,027 | Common nouns |
-| **ADJ** | 3,866 | Adjectives |
-| **VERB** | 1,561 | Verb roots |
+| **PROPN** | 32,981 | Proper nouns (City names, person names, etc.) |
+| **NOUN** | 25,010 | Common nouns |
+| **ADJ** | 3,865 | Adjectives |
+| **VERB** | 1,560 | Verb roots |
 | **ADV** | 706 | Adverbs |
 | **INTERJ** | 451 | Interjections |
+| **PART** | 72 | Particles |
+| **PRON** | 69 | Pronouns |
+| **NUM** | 63 | Numerals |
+| **CONJ** | 54 | Conjunctions |
+| **POSTP** | 42 | Postpositions |
+| **DET** | 18 | Determiners |
 
 The dataset includes:
 *   Root forms (lemmas)
